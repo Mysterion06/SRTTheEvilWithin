@@ -50,7 +50,7 @@ function GetIGT(data){
 
 function GetMoney(data){
 	let mainContainer = document.getElementById("srtQueryData");
-	mainContainer.innerHTML += `<div id="Money"><div class="title">IGT: <font color="#00FF00">${data.GreenGel}</font></div></div>`;
+	mainContainer.innerHTML += `<div id="Money"><div class="title">Green Gel: <font color="#00FF00">${data.GreenGel}</font></div></div>`;
 }
 
 function formatGameTime(gameTimeSecs) {
