@@ -20,9 +20,6 @@ This step is only necessary, if you want to display the SRT through OBS
 This SRT is at a testingphase. Problems may occur and I would appreciate any feedback on that. If you face "weird/random" hp's during gameplay, like a value thats really high, but isnt adjusted to an enemy and wouldn't make sense in that scenario. In that case please message me with the HP that was returned at that moment and at what stage it had happened.
 
 
-For further questions message Khalid hameidei'yah Al-sham'ah#5426
-
-
 **INSTRUCTIONS TO ADJUST THE HP BARS TO THE OBS SOURCE**
 
 ```
@@ -33,7 +30,5 @@ For further questions message Khalid hameidei'yah Al-sham'ah#5426
 ```
 
 For further questions message Khalid hameidei'yah Al-sham'ah#5426
-
-
 
 Credits: Mysterion06 (Main Coding & Pointers), Squirrelies (Provider of the SRTHost), TheDementedSalad (Help), JigzawKiller (Commissioner & Tester)
