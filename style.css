@@ -45,24 +45,6 @@ font {
 	padding-left: 10px;
 }
 
-#DAChris {
-	position: relative;
-	top: 15px;
-	font-size: 20px;
-	display: flex;
-	justify-content: start;
-	padding-left: 10px;
-}
-
-#DASheva {
-	position: relative;
-	top: 15px;
-	font-size: 20px;
-	display: flex;
-	justify-content: start;
-	padding-left: 10px;
-}
-
 #SRTVersion {
 	position: absolute;
 	align-items: center;
@@ -94,10 +76,6 @@ font {
 
 .MainHP {
 	background: rgba(0, 102, 0, 0.6);
-}
-
-.MainDT {
-	background: purple;
 }
 
 .danger {
