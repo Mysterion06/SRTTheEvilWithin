@@ -9,7 +9,7 @@ Updated: 10th of January 2022
 
 **How To Install:**
 ```
-1) Download and Extract the RSRTHost-v3.1.0.1.rar.
+1) Download and Extract the SRT_TEW.rar.
 2) Run The Evil Within
 3) Open SRTHost64.exe
 4) Open this site - https://mysterion06.github.io/SRTTheEvilWithin/
